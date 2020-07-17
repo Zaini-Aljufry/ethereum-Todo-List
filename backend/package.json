@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Blockchain todo list smart contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Zaini.Al-Jufry@sg.ey.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.5.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "lite-server": "^2.5.4",
+    "truffle": "^5.1.34",
+    "truffle-contract": "^4.0.31"
+  }
+}
