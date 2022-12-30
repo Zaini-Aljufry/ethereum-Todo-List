@@ -20,7 +20,7 @@
     "chai-bignumber": "^2.0.2",
     "lite-server": "^2.3.0",
     "nodemon": "^1.17.3",
-    "truffle": "^5.1.34",
+    "truffle": "^5.7.1",
     "truffle-contract": "3.0.6"
   }
 }
